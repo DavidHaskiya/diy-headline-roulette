@@ -21,10 +21,10 @@ $(function(){
     // var titles = '840 35';
     var titles = '';
     // Add a byline, eg:
-    var byline = 'Created by Vandelay Industries</a>.'
+    var byline = 'Created by Vandelay Industries.'
     // var byline = '';
     // Add a tagline
-    var tagline = 'Japan in Australian press?';
+    var tagline = 'Japan in Australian press';
     // Leave this alone unless you're publishing on a non-https server
     var useHttps = 'true';
 
