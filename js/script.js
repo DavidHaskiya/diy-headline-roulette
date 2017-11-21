@@ -24,7 +24,7 @@ $(function(){
     var byline = 'Created by Vandelay Industries.'
     // var byline = '';
     // Add a tagline
-    var tagline = 'Japan in Australian press';
+    var tagline = 'When was Japan Big in Australian press?';
     // Leave this alone unless you're publishing on a non-https server
     var useHttps = 'true';
 
