@@ -3,12 +3,12 @@ $(function(){
 
     // YOU MUST EDIT THIS SECTION
     // You must supply a Trove API key
-    var troveAPIKey = '';
+    var troveAPIKey = '2tbk7h6eldf8bf13';
     // Either provide full API query here or include options below
     var apiQuery = '';
     // Words you want to search for -- separate multiple values with spaces, eg:
     // var keywords = 'weather wragge';
-    var keywords = '';
+    var keywords = 'japan nippon';
     // How you want to combine keywords -- all, any, or phrase
     var keywordType = 'all'
     // Limit to a particular year
@@ -21,10 +21,10 @@ $(function(){
     // var titles = '840 35';
     var titles = '';
     // Add a byline, eg:
-    var byline = 'Created by <a href="https://timsherratt.org">Tim Sherratt</a>.'
+    var byline = 'Created by Vandelay Industries</a>.'
     // var byline = '';
     // Add a tagline
-    var tagline = 'How well do you know your Australian history?';
+    var tagline = 'Japan in Australian press?';
     // Leave this alone unless you're publishing on a non-https server
     var useHttps = 'true';
 
