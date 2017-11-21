@@ -6,7 +6,7 @@ Here you can build your own customised version of Headline Roulette with nothing
 
 For example, you might to create a version of Headline Roulette limited to articles:
 
-* that mention **cats** or **kittens**
+* that mention **cats** or **kittens**. Or as in this fork, articles containing the words **japan** or **nippon**
 * that include the phrase "White Australia"
 * that come from the Melbourne *Age*
 * that come from your local region
